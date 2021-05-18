@@ -1,0 +1,16 @@
+C:\Users\Kecho\source\repos\CasperChat\CasperChat\CasperChat\bin\Debug\netstandard2.0\CasperChat.deps.json
+C:\Users\Kecho\source\repos\CasperChat\CasperChat\CasperChat\bin\Debug\netstandard2.0\CasperChat.dll
+C:\Users\Kecho\source\repos\CasperChat\CasperChat\CasperChat\bin\Debug\netstandard2.0\ref\CasperChat.dll
+C:\Users\Kecho\source\repos\CasperChat\CasperChat\CasperChat\bin\Debug\netstandard2.0\CasperChat.pdb
+C:\Users\Kecho\source\repos\CasperChat\CasperChat\CasperChat\obj\Debug\netstandard2.0\CasperChat.csprojAssemblyReference.cache
+C:\Users\Kecho\source\repos\CasperChat\CasperChat\CasperChat\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Kecho\source\repos\CasperChat\CasperChat\CasperChat\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Kecho\source\repos\CasperChat\CasperChat\CasperChat\obj\Debug\netstandard2.0\Pages\ChatPage.xaml.g.cs
+C:\Users\Kecho\source\repos\CasperChat\CasperChat\CasperChat\obj\Debug\netstandard2.0\CasperChat.AssemblyInfoInputs.cache
+C:\Users\Kecho\source\repos\CasperChat\CasperChat\CasperChat\obj\Debug\netstandard2.0\CasperChat.AssemblyInfo.cs
+C:\Users\Kecho\source\repos\CasperChat\CasperChat\CasperChat\obj\Debug\netstandard2.0\CasperChat.csproj.CoreCompileInputs.cache
+C:\Users\Kecho\source\repos\CasperChat\CasperChat\CasperChat\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Kecho\source\repos\CasperChat\CasperChat\CasperChat\obj\Debug\netstandard2.0\CasperChat.dll
+C:\Users\Kecho\source\repos\CasperChat\CasperChat\CasperChat\obj\Debug\netstandard2.0\ref\CasperChat.dll
+C:\Users\Kecho\source\repos\CasperChat\CasperChat\CasperChat\obj\Debug\netstandard2.0\CasperChat.pdb
+C:\Users\Kecho\source\repos\CasperChat\CasperChat\CasperChat\obj\Debug\netstandard2.0\CasperChat.csproj.Fody.CopyLocal.cache

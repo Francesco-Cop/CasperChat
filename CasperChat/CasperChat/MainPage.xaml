@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+             x:Class="CasperChat.MainPage">
+
+    <StackLayout Background="Black">
+        <Label Text="" FontSize="30" HorizontalTextAlignment="Center" TextColor="#5f27cd" Margin="0,20,0,0"/>
+        <Frame Padding="0" Margin="40,90,40,30"  CornerRadius="20">
+            <StackLayout Padding="50,0,50,0" Background="#5f27cd">
+
+                <Entry Margin="0,40,0,0" Placeholder="Username" x:Name="Usr" />
+                <Entry Margin="0,40,0,0" Placeholder="#Channel" x:Name="Ch" />
+                <Label Text="" x:Name="txt" FontSize="10"/>
+                <Button Text="Ok" Margin="20,50,20,20" CornerRadius="20" Background="Black" TextColor="#5f27cd" Clicked="OnPress" x:Name="btn"/>
+
+                <Switch IsToggled="False" Toggled="Resize" x:Name="switch1"/>
+
+            </StackLayout>
+
+        </Frame>
+        
+        
+    </StackLayout>
+
+</ContentPage>
